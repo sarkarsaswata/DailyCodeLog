@@ -1,17 +1,18 @@
 # **Daily Code Challenge 🚀**
 
 ## **📈 Progress Tracker**  
-🔥 **Current Streak:** `22 Days`  
-✔️ **Total Problems Solved:** `13`
+🔥 **Current Streak:** `26 Days`  
+✔️ **Total Problems Solved:** `17`
 
 ---
 
 ## **📅 Monthly Calendar View**  
-| Sun                                    | Mon                                  | Tue                                  | Wed                                  | Thu                                    | Fri                                  | Sat                                  |
-| -------------------------------------- | ------------------------------------ | ------------------------------------ | ------------------------------------ | -------------------------------------- | ------------------------------------ | ------------------------------------ |
-|                                        |                                      |                                      |                                      |                                        | [1](november_2024/day1_medium.py) 🟡 | [2](november_2024/day2_medium.py) 🟡 |
-| [3](november_2024/day3_easy.py) 🟢     | [4](november_2024/day4_medium.py) 🟡 | [5](november_2024/day5_medium.py) 🟡 | [6](november_2024/day5_medium.py) 🟢 | [7](november_2024/day7_medium.py) 🟡   | [8](november_2024/day8_easy.py) 🟢   | [9](november_2024/day9_easy.py) 🟢   |
-| [10](november_2024/day10_medium.py) 🟡 | [11](november_2024/day11_hard.py) 🔴 | [12](november_2024/day12_easy.py) 🟢 | [13](november_2024/day13_easy.py) 🟢 | [14](november_2024/day14_medium.py) 🟡 |                                      |                                      |
+| Sun                                    | Mon                                  | Tue                                  | Wed                                  | Thu                                    | Fri                                  | Sat                                    |
+| -------------------------------------- | ------------------------------------ | ------------------------------------ | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- |
+|                                        |                                      |                                      |                                      |                                        | [1](november_2024/day1_medium.py) 🟡 | [2](november_2024/day2_medium.py) 🟡   |
+| [3](november_2024/day3_easy.py) 🟢     | [4](november_2024/day4_medium.py) 🟡 | [5](november_2024/day5_medium.py) 🟡 | [6](november_2024/day5_medium.py) 🟢 | [7](november_2024/day7_medium.py) 🟡   | [8](november_2024/day8_easy.py) 🟢   | [9](november_2024/day9_easy.py) 🟢     |
+| [10](november_2024/day10_medium.py) 🟡 | [11](november_2024/day11_hard.py) 🔴 | [12](november_2024/day12_easy.py) 🟢 | [13](november_2024/day13_easy.py) 🟢 | [14](november_2024/day14_medium.py) 🟡 | [15](november_2024/day15_easy.py) 🟢 | [16](november_2024/day16_medium.py) 🟡 |
+| [17](november_2024/day17_medium.py) 🟡 |                                      |                                      |                                      |                                        |                                      |                                        |
 
 
 **Legend:**  
@@ -60,7 +61,9 @@ If you like the repository, consider giving it a ⭐ to show your support! 😊
 | 12      | 🟢 Easy        | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                                | `Stack`, `Design`, `Queue`                                                       | [Day12.py](november_2024/day12_easy.py)   |
 | 13      | 🟢 Easy        | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                    | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree`              | [Day13.py](november_2024/day13_easy.py)   |
 | 14      | 🟡 Medium      | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)                                                                  | `Math`, `String`, `Stack`                                                        | [Day14.py](november_2024/day14_medium.py) |
-|         |                |                                                                                                                                            |                                                                                  |                                           |
+| 15      | 🟢 Easy        | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)                                                                            | `Array`                                                                          | [Day15.py](november_2024/day15_easy.py)   |
+| 16      | 🟡 Medium      | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                      | `Array`, `Two Pointers`, `Binary Search`                                         | [Day16.py](november_2024/day16_medium.py) |
+| 17      | 🟡 Medium      | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)                                                    | `Math`, `Dynamic Programming`, `Tree`, `Binary Search Tree`, `Binary Tree`       | [Day17.py](november_2024/day17_medium.py) |
 
 ---
 
