@@ -1,18 +1,18 @@
 # **Daily Code Challenge 🚀**
 
 ## **📈 Progress Tracker**  
-🔥 **Current Streak:** `26 Days`  
-✔️ **Total Problems Solved:** `17`
+🔥 **Current Streak:** `27 Days`  
+✔️ **Total Problems Solved:** `19`
 
 ---
 
 ## **📅 Monthly Calendar View**  
-| Sun                                    | Mon                                  | Tue                                  | Wed                                  | Thu                                    | Fri                                  | Sat                                    |
-| -------------------------------------- | ------------------------------------ | ------------------------------------ | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- |
-|                                        |                                      |                                      |                                      |                                        | [1](november_2024/day1_medium.py) 🟡 | [2](november_2024/day2_medium.py) 🟡   |
-| [3](november_2024/day3_easy.py) 🟢     | [4](november_2024/day4_medium.py) 🟡 | [5](november_2024/day5_medium.py) 🟡 | [6](november_2024/day5_medium.py) 🟢 | [7](november_2024/day7_medium.py) 🟡   | [8](november_2024/day8_easy.py) 🟢   | [9](november_2024/day9_easy.py) 🟢     |
-| [10](november_2024/day10_medium.py) 🟡 | [11](november_2024/day11_hard.py) 🔴 | [12](november_2024/day12_easy.py) 🟢 | [13](november_2024/day13_easy.py) 🟢 | [14](november_2024/day14_medium.py) 🟡 | [15](november_2024/day15_easy.py) 🟢 | [16](november_2024/day16_medium.py) 🟡 |
-| [17](november_2024/day17_medium.py) 🟡 |                                      |                                      |                                      |                                        |                                      |                                        |
+| Sun                                    | Mon                                    | Tue                                    | Wed                                  | Thu                                    | Fri                                  | Sat                                    |
+| -------------------------------------- | -------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------ | -------------------------------------- |
+|                                        |                                        |                                        |                                      |                                        | [1](november_2024/day1_medium.py) 🟡 | [2](november_2024/day2_medium.py) 🟡   |
+| [3](november_2024/day3_easy.py) 🟢     | [4](november_2024/day4_medium.py) 🟡   | [5](november_2024/day5_medium.py) 🟡   | [6](november_2024/day5_medium.py) 🟢 | [7](november_2024/day7_medium.py) 🟡   | [8](november_2024/day8_easy.py) 🟢   | [9](november_2024/day9_easy.py) 🟢     |
+| [10](november_2024/day10_medium.py) 🟡 | [11](november_2024/day11_hard.py) 🔴   | [12](november_2024/day12_easy.py) 🟢   | [13](november_2024/day13_easy.py) 🟢 | [14](november_2024/day14_medium.py) 🟡 | [15](november_2024/day15_easy.py) 🟢 | [16](november_2024/day16_medium.py) 🟡 |
+| [17](november_2024/day17_medium.py) 🟡 | [18](november_2024/day18_medium.py) 🟡 | [19](november_2024/day19_medium.py) 🟡 | [20](november_2024/day20_easy.py) 🟢 |                                        |                                      |                                        |
 
 
 **Legend:**  
@@ -26,9 +26,9 @@
 ```plaintext
 .
 ├── month1_year1
-│   ├── 1_medium.py
-│   ├── 2_medium.py
-│   ├── 3_easy.py
+│   ├── day1_medium.py
+│   ├── day2_medium.py
+│   ├── day3_easy.py
 ├── README.md
 ```
 
@@ -64,6 +64,9 @@ If you like the repository, consider giving it a ⭐ to show your support! 😊
 | 15      | 🟢 Easy        | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)                                                                            | `Array`                                                                          | [Day15.py](november_2024/day15_easy.py)   |
 | 16      | 🟡 Medium      | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                      | `Array`, `Two Pointers`, `Binary Search`                                         | [Day16.py](november_2024/day16_medium.py) |
 | 17      | 🟡 Medium      | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)                                                    | `Math`, `Dynamic Programming`, `Tree`, `Binary Search Tree`, `Binary Tree`       | [Day17.py](november_2024/day17_medium.py) |
+| 18      | 🟡 Medium      | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                  | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree`                | [Day18.py](november_2024/day18_medium.py) |
+| 19      | 🟡 Medium      | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)                                                    | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree`                | [Day19.py](november_2024/day19_medium.py) |
+| 20      | 🟢 Easy        | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                        | `Array`, `Math`                                                                  | [Day20.py](november_2024/day20_easy.py)   |
 
 ---
 
