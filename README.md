@@ -26,9 +26,9 @@
 ```plaintext
 .
 ├── month1_year1
-│   ├── day1_medium.py
-│   ├── day2_medium.py
-│   ├── day3_easy.py
+│   ├── 1_medium.py
+│   ├── 2_medium.py
+│   ├── 3_easy.py
 ├── README.md
 ```
 
