@@ -68,7 +68,7 @@ If you like the repository, consider giving it a ⭐ to show your support! 😊
 | 18      | 🟡 Medium      | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                  | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree`                | [Day18.py](november_2024/day18_medium.py) |
 | 19      | 🟡 Medium      | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)                                                    | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree`                | [Day19.py](november_2024/day19_medium.py) |
 | 20      | 🟢 Easy        | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                        | `Array`, `Math`                                                                  | [Day20.py](november_2024/day20_easy.py)   |
-| 21      | 🔴 Hard        | Sudoku Solver                                                                                                                              | `Array`, `Hash Table`, `Backtracking`, `Matrix`                                  | [Day21.py](november_2024/day21_hard.py)   |
+| 21      | 🔴 Hard        | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                                                                              | `Array`, `Hash Table`, `Backtracking`, `Matrix`                                  | [Day21.py](november_2024/day21_hard.py)   |
 
 ---
 
