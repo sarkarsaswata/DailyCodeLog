@@ -12,7 +12,8 @@
 |                                        |                                        |                                        |                                      |                                        | [1](november_2024/day1_medium.py) 🟡 | [2](november_2024/day2_medium.py) 🟡   |
 | [3](november_2024/day3_easy.py) 🟢     | [4](november_2024/day4_medium.py) 🟡   | [5](november_2024/day5_medium.py) 🟡   | [6](november_2024/day5_medium.py) 🟢 | [7](november_2024/day7_medium.py) 🟡   | [8](november_2024/day8_easy.py) 🟢   | [9](november_2024/day9_easy.py) 🟢     |
 | [10](november_2024/day10_medium.py) 🟡 | [11](november_2024/day11_hard.py) 🔴   | [12](november_2024/day12_easy.py) 🟢   | [13](november_2024/day13_easy.py) 🟢 | [14](november_2024/day14_medium.py) 🟡 | [15](november_2024/day15_easy.py) 🟢 | [16](november_2024/day16_medium.py) 🟡 |
-| [17](november_2024/day17_medium.py) 🟡 | [18](november_2024/day18_medium.py) 🟡 | [19](november_2024/day19_medium.py) 🟡 | [20](november_2024/day20_easy.py) 🟢 |                                        |                                      |                                        |
+| [17](november_2024/day17_medium.py) 🟡 | [18](november_2024/day18_medium.py) 🟡 | [19](november_2024/day19_medium.py) 🟡 | [20](november_2024/day20_easy.py) 🟢 | [21](november_2024/day21_hard.py) 🔴   | [22]                                 | [23]                                   |
+| [24]                                   | [25]                                   | [26]                                   | [27]                                 | [28]                                   | [29]                                 | [30]                                   |
 
 
 **Legend:**  
@@ -67,6 +68,7 @@ If you like the repository, consider giving it a ⭐ to show your support! 😊
 | 18      | 🟡 Medium      | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                  | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree`                | [Day18.py](november_2024/day18_medium.py) |
 | 19      | 🟡 Medium      | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)                                                    | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree`                | [Day19.py](november_2024/day19_medium.py) |
 | 20      | 🟢 Easy        | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                        | `Array`, `Math`                                                                  | [Day20.py](november_2024/day20_easy.py)   |
+| 21      | 🔴 Hard        | Sudoku Solver                                                                                                                              | `Array`, `Hash Table`, `Backtracking`, `Matrix`                                  | [Day21.py](november_2024/day21_hard.py)   |
 
 ---
 
